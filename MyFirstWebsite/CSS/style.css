@@ -1,0 +1,114 @@
+
+p{
+  color: #f9a5ff;
+  font-family: sans-serif;
+  font-size: 18;
+}
+
+.topnav{
+  margin-top: 15px;
+}
+
+.topnav a{
+  color: white;
+  background-color: #efceff;
+  border-radius: 30px;
+  border-style: dotted;
+  padding: 7px;
+  text-decoration: none;
+  border-collapse: separate;
+  font-family: sans-serif;
+}
+
+
+h1{
+  color: #f9a5ff;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+.header p{
+  color: #f9a5ff;
+  font-family: sans-serif;
+  font-size: 19px;
+}
+
+footer{
+  background-color: #efceff;
+  border-radius: 30px;
+  border-style: dotted;
+  color: white;
+  font-family: sans-serif;
+}
+
+footer a{
+  color: white;
+  text-decoration: none;
+}
+
+footer{
+  margin-top: 15px;
+}
+
+a{
+  color: #8edeff;
+  font-family: sans-serif;
+}
+
+a:hover{
+  color: white;
+  transition: color .2s linear;
+  cursor: url(/Volumes/Student-Files/2018-19/Mollie.Gallawa/MyFirstWebsite/Images/etc/cursor.gif), default !important;
+}
+
+
+.topnav a:hover{
+  background-color: #91EDFF;
+  transition: background-color .3s linear;
+}
+
+.comics img{
+border-radius: 0%
+
+}
+.gor a{
+  text-decoration: none;
+}
+
+.lup a{
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: #91EDFF;
+  transition: color .2s linear;
+}
+
+img{
+  border-radius: 15%;
+  padding: 5px
+}
+
+body{
+  cursor: url(http://cur.cursors-4u.net/food/foo-6/foo507.png), default !important;
+}
+
+
+.home img{
+  padding: 3px;
+  background-color: #efceff;
+  border-radius: 30px;
+  border-style: dotted;
+  color: white;
+}
+
+.logo{
+  position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 20;
+}
+
+ .title img{
+   padding: 0px;
+ }
